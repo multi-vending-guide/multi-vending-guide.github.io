@@ -1,0 +1,9 @@
+{
+  "name": "멀티자판기 가이드",
+  "short_name": "멀티자판기",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f8fb",
+  "theme_color": "#10233f",
+  "icons": [{"src":"/favicon.svg","sizes":"any","type":"image/svg+xml"}]
+}
